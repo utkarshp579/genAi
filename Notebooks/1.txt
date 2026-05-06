@@ -1,0 +1,5 @@
+2 ways to integrate a langchain Model
+1. modelClass
+2. init_chat_model
+
+pip install -U "langchain[google-genai]"

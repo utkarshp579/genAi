@@ -1,0 +1,41 @@
+Two ways :- 
+    API KEYs
+    or 
+    Python Libraries.
+
+
+1. for open AI  
+    pip install openai
+
+
+2. For gemini google
+    pip install google-genai
+
+
+3. Anthropic
+    pip install anthropic
+
+
+Each have little distinc syntax structure. 
+
+So we can use Langchain. 
+    It is an opensource project.
+
+7 Components in Langchain. 
+    Models
+    Tools
+    Agents
+    Memory
+    Document Processing
+    Vector Stores
+    Retrieves 
+
+pip install -U langchain
+pip install -U langchain-openai
+pip install -U langchain-anthropic
+
+
+For Good Developer SKIM technique.
+    Aisa nhi ki koi concept aaya aur hum padne baith gye. 
+    hum quickly padhenge aur aage bad jayenge. aage jo used hoga wo dobara aayega to humara revision ho jayega. 
+    

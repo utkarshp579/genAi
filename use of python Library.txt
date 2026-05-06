@@ -1,0 +1,5 @@
+Have API_KEY
+create virtual environment 
+install Library/SDK
+instantiate object
+call functions and do the work

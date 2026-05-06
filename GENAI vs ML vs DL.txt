@@ -1,0 +1,36 @@
+GenAi is genrative AI. 
+    Gives new generative content each time. 
+    By using LLMs.
+
+ML :-
+    Prediction using data. 
+        Ex- Netflix predicting next movie. 
+
+DL :- 
+    Face Unlock System.
+
+LLM :- 
+    Artificial Machines jo bhut bade data pr trained kiye gye hi. 
+
+
+How LLM work ?
+    G -> Generative 
+    P -> Pre-trained
+    T -> Transformer
+
+Tokens and Tokenization :- 
+    Tokens :- breakdown of sentence
+    Tokensizer :- the step where tokens are converted into digits.
+    Tokenization :- process of converting from strings to tokens.
+
+Library  Used:- tiktoken 
+    for generating tokens. 
+
+Context Window :- 
+    Ek baaar me kitne token bhej sakte ya output le sakte hi. 
+
+Max token :- 
+    we customly decide ki ek baar me kitne tokens bhejne hi ya recieve krne hi. 
+
+    
+

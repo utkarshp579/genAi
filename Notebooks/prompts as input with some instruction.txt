@@ -1,0 +1,14 @@
+sending images.
+
+
+2 types of prompt. 
+1. static
+2. dynamic.
+
+list of tuples. 
+standard is ist of dictornary
+    system :- how llm behaves
+    ai :- some ai response
+    user :- user query.
+
+Static prompt
